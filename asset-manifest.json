@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/CourseManagementSystem/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/CourseManagementSystem/static/js/main.a6b32c91.chunk.js",
+    "main.js.map": "/CourseManagementSystem/static/js/main.a6b32c91.chunk.js.map",
+    "runtime-main.js": "/CourseManagementSystem/static/js/runtime-main.415f69be.js",
+    "runtime-main.js.map": "/CourseManagementSystem/static/js/runtime-main.415f69be.js.map",
+    "static/js/2.f8c1abe7.chunk.js": "/CourseManagementSystem/static/js/2.f8c1abe7.chunk.js",
+    "static/js/2.f8c1abe7.chunk.js.map": "/CourseManagementSystem/static/js/2.f8c1abe7.chunk.js.map",
+    "static/js/3.301ddbea.chunk.js": "/CourseManagementSystem/static/js/3.301ddbea.chunk.js",
+    "static/js/3.301ddbea.chunk.js.map": "/CourseManagementSystem/static/js/3.301ddbea.chunk.js.map",
+    "index.html": "/CourseManagementSystem/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/CourseManagementSystem/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.f8c1abe7.chunk.js.LICENSE.txt": "/CourseManagementSystem/static/js/2.f8c1abe7.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/CourseManagementSystem/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.415f69be.js",
+    "static/js/2.f8c1abe7.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.a6b32c91.chunk.js"
+  ]
+}
